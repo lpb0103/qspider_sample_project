@@ -4,6 +4,8 @@ public class SampleClass7 {
 
 	public static void main(String[] args) {
 		System.out.println("I'm from SmapleClass7.java,yes after modify");
+		System.out.println("I'm from SmapleClass7.java,yes after modify");
+
 
 	}
 
